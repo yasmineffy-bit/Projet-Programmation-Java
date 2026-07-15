@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/GestionEmployes.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/modele/Employe.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/modele/Departement.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/dao/Connexion.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/dao/EmployeDAO.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/dao/DepartementDAO.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/vue/FenetreEmploye.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/vue/FenetreDepartement.java</file>
+            <file>file:/C:/Users/Yasmine/Documents/NetBeansProjects/GestionEmployes/src/gestionemployes/vue/FenetrePrincipale.java</file>
+        </group>
+    </open-files>
+</project-private>
